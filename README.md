@@ -1,3 +1,7 @@
+> ## Repository abandoned 2021-10-15
+>
+> This repository has moved to [hivecommerce/magento2-content-fuzzyfyr](https://github.com/hivecommerce/magento2-content-fuzzyfyr).
+
 # Content Fuzzyfyr Module for Magento® 2
 
 The **Content Fuzzyfyr** module for *Magento® 2* fills up empty content fields - and if needed - switches real content with dummy content.
